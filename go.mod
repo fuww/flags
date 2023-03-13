@@ -1,3 +1,3 @@
-module gitlab.com/fuww/flags
+module gitlab.com/fashionunited/public/flags
 
 go 1.19
